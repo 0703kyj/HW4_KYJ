@@ -1,7 +1,7 @@
 git add q1.txt
 git commit -m "A"
 git checkout -b develop
-git commit -am "B
+git commit -am "B"
 git checkout master
 git commit -am "C
 git merge develop -m "D"
